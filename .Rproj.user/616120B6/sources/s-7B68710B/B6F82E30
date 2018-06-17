@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1529248449993.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "B6F82E30",
+    "lastKnownWriteTime" : 1529249679,
+    "last_content_update" : 1529249679279,
+    "path" : "~/iXperience/blog_again/content/post/kaggle.Rmd",
+    "project_path" : "content/post/kaggle.Rmd",
+    "properties" : {
+        "cursorPosition" : "12,157",
+        "scrollLine" : "0",
+        "tempName" : "Untitled2"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
