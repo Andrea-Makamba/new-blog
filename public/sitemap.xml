@@ -5,6 +5,15 @@
     
     <url>
     
+      <loc>/post/factorial-the-package-you-need/</loc>
+      <lastmod>2018-06-17T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/tags/academic/</loc>
       <lastmod>2017-01-01T00:00:00+02:00</lastmod>
     </url>
@@ -150,6 +159,14 @@
     
     <url>
     
+      <loc>/post/about_me/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/</loc>
       <lastmod>2017-10-15T00:00:00+02:00</lastmod>
       <priority>0</priority>
@@ -200,6 +217,14 @@
     
       <loc>/tags/ixperience/</loc>
       <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/post/kaggle/</loc>
     </url>
     
   
